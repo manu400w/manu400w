@@ -1,10 +1,11 @@
 # Hi there! 👋 I'm Emanuele
 
-🎓 Computer Science student at the **Universidade Católica de Brasília (UCB)**, currently in the 4th semester.
 
-💻 I'm passionate about technology and software development. I enjoy building projects that help me improve my programming, database, and problem-solving skills.
+I'm a Computer Science student at the Universidade Católica de Brasília (UCB), currently in my fourth semester.
 
-🌱 Currently looking for an internship where I can continue learning, collaborate with experienced professionals, and contribute to meaningful software projects.
+I'm passionate about technology and enjoy building projects that help me improve my programming, database, and software development skills.
+
+Currently, I'm looking for my first internship opportunity in Software Development, where I can continue learning and contribute to real-world projects.
 
 ---
 
@@ -54,4 +55,4 @@ Seeking an internship in **Software Development** where I can apply my technical
 
 ---
 
-> *"Every project is a new opportunity to learn, improve, and build something meaningful."*
+> *"Always learning. Always building.""*

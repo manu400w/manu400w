@@ -54,13 +54,4 @@ Seeking an internship in **Software Development** where I can apply my technical
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manu400w&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu400w&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 > *"Every project is a new opportunity to learn, improve, and build something meaningful."*
